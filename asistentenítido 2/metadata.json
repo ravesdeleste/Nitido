@@ -1,0 +1,5 @@
+{
+  "name": "AsistenteNítido",
+  "description": "Una aplicación que utiliza IA para recomendar el equipamiento de sonido ideal para tu fiesta o evento, basándose en las características del lugar, el número de invitados y el estilo musical.",
+  "requestFramePermissions": []
+}
